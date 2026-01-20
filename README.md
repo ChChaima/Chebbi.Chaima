@@ -1,12 +1,12 @@
-# 👋 Bonjour, je suis Chaima Chebbi
+# Bonjour, je suis Chaima Chebbi
 
-🎓 Étudiante en **1ʳᵉ année du Cycle d’Ingénieur en Sciences Appliquées et Technologies** – TEK-UP  
-💻 Domaines d’intérêt : **Intelligence Artificielle & Cybersécurité** 
-🎯 Passionnée par les projets techniques et le développement de solutions concrètes
+Étudiante en **1ʳᵉ année du Cycle d’Ingénieur en Sciences Appliquées et Technologies** – TEK-UP  
+Domaines d’intérêt : **Intelligence Artificielle & Cybersécurité** 
+Passionnée par les projets techniques et le développement de solutions concrètes
 
 ---
 
-## 👩‍💻 À propos de moi
+##  À propos de moi
 
 Je suis une étudiante en ingénierie informatique, spécialisée dans les **systèmes embarqués** et le **développement Mobiles**.  
 J’ai réalisé plusieurs projets académiques et personnels en **C, Android, IoT et Web**, avec une forte orientation vers les applications pratiques et les solutions open source.
@@ -15,7 +15,7 @@ Sérieuse, autonome et motivée, je cherche continuellement à améliorer mes co
 
 ---
 
-## 🛠️ Compétences techniques
+##  Compétences techniques
 
 ### 🔹 Programmation & Systèmes
 - **Langages** : C / C++, Python, Java  
@@ -34,9 +34,9 @@ Sérieuse, autonome et motivée, je cherche continuellement à améliorer mes co
 
 ---
 
-## 📌 Projets académiques & personnels
+##  Projets académiques & personnels
 
-### 📚 Projet en C – Gestion de bibliothèque
+###  Projet en C – Gestion de bibliothèque
 **Projet récent**
 - Application console développée en **langage C**
 - Gestion des livres (ajout, suppression, modification)
@@ -45,22 +45,22 @@ Sérieuse, autonome et motivée, je cherche continuellement à améliorer mes co
 - Utilisation des structures, fichiers et pointeurs
 
 🔗 Dépôt GitHub :  
-👉 https://github.com/ChChaima
+ https://github.com/ChChaima
 
 ---
 
-### 🏠 Site web immobilier (HTML, CSS, Bootstrap, JavaScript)
+###  Site web immobilier (HTML, CSS, Bootstrap, JavaScript)
 - Site vitrine pour une agence immobilière
 - Interface responsive avec **Bootstrap**
 - Pages : accueil, biens immobiliers, détails, contact
 - Interactivité en **JavaScript**
 
 🔗 Dépôt GitHub :  
-👉 https://github.com/ChChaima
+https://github.com/ChChaima
 
 ---
 
-### 📱 Application Android MDM personnalisée (Headwind MDM – Open Source)
+###  Application Android MDM personnalisée (Headwind MDM – Open Source)
 - Mise en place d’une solution **MDM open source**
 - Installation et configuration de **Headwind MDM**
 - Développement d’une **interface administrateur Android**
@@ -68,28 +68,28 @@ Sérieuse, autonome et motivée, je cherche continuellement à améliorer mes co
 - Actions à distance : verrouillage, redémarrage, suppression des données
 
 🔗 Dépôt GitHub :  
-👉 https://github.com/ChChaima
+https://github.com/ChChaima
 
 ---
 
-### 📊 Application mobile de gestion des clients
+### Application mobile de gestion des clients
 - Application Android dédiée à la gestion des clients
 - Utilisation des activités et fragments
 - Gestion et validation des données
 
 🔗 Dépôt GitHub :  
-👉 https://github.com/ChChaima
+https://github.com/ChChaima
 
 ---
 
-### 🔥 Projet IoT – Détection de fumée et d’incendie
+### Projet IoT – Détection de fumée et d’incendie
 - Capteurs de fumée et de température
 - Module GSM **SIM900** pour alertes par SMS et appels
 - Programmation en **C (Arduino IDE)**
 - Communication à distance et alertes en temps réel
 
 🔗 Dépôt GitHub :  
-👉 https://github.com/ChChaima
+https://github.com/ChChaima
 
 ---
 
@@ -104,7 +104,7 @@ Sérieuse, autonome et motivée, je cherche continuellement à améliorer mes co
 
 ---
 
-## 📜 Certifications
+##  Certifications
 - Programming Essentials in Python – Cisco (PCAP)  
 - Embedded Systems – Time University  
 - Robotic Trainer – Try Angle Academy  
@@ -112,17 +112,17 @@ Sérieuse, autonome et motivée, je cherche continuellement à améliorer mes co
 
 ---
 
-## 🌍 Langues
+##  Langues
 - Arabe : langue maternelle  
 - Français : B2 (TCF)  
 - Anglais : C1  
 
 ---
 
-## 📫 Contact
-- 📧 Email : **chaimachebbi42@gmail.com**  
-- 💼 LinkedIn : https://linkedin.com/in/chaima-chebbi-169b48255  
-- 💻 GitHub : https://github.com/ChChaima  
+##  Contact
+-  Email : **chaimachebbi42@gmail.com**  
+-  LinkedIn : https://linkedin.com/in/chaima-chebbi-169b48255  
+-  GitHub : https://github.com/ChChaima  
 
 ---
 
