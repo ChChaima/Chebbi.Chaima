@@ -45,7 +45,7 @@ Sérieuse, autonome et motivée, je cherche continuellement à améliorer mes co
 - Utilisation des structures, fichiers et pointeurs
 
 🔗 Dépôt GitHub :  
- https://github.com/ChChaima
+ [https://github.com/ChChaima/gestion-bibliotheque-c]
 
 ---
 
@@ -56,7 +56,7 @@ Sérieuse, autonome et motivée, je cherche continuellement à améliorer mes co
 - Interactivité en **JavaScript**
 
 🔗 Dépôt GitHub :  
-https://github.com/ChChaima
+[https://github.com/ChChaima](https://chchaima.github.io/Site-web-immobilier/)
 
 ---
 
@@ -68,7 +68,7 @@ https://github.com/ChChaima
 - Actions à distance : verrouillage, redémarrage, suppression des données
 
 🔗 Dépôt GitHub :  
-https://github.com/ChChaima
+[https://github.com/AlbouchiSamar/ProjetAndroidMDM]
 
 ---
 
