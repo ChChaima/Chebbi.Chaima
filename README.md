@@ -78,7 +78,7 @@ Sérieuse, autonome et motivée, je cherche continuellement à améliorer mes co
 - Gestion et validation des données
 
 🔗 Dépôt GitHub :  
-https://github.com/ChChaima
+[Voir le code du projet](https://github.com/ChChaima/MiniapplicationCRUD_BDdistante)
 
 ---
 
