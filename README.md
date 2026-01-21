@@ -45,7 +45,7 @@ Sérieuse, autonome et motivée, je cherche continuellement à améliorer mes co
 - Utilisation des structures, fichiers et pointeurs
 
 🔗 Dépôt GitHub :  
- [[https://github.com/ChChaima/gestion-bibliotheque-c]](https://github.com/ChChaima/gestion-bibliotheque-c)
+[Voir le code du projet](https://github.com/ChChaima/gestion-bibliotheque-c)
 
 ---
 
@@ -68,7 +68,7 @@ Sérieuse, autonome et motivée, je cherche continuellement à améliorer mes co
 - Actions à distance : verrouillage, redémarrage, suppression des données
 
 🔗 Dépôt GitHub :  
-[[https://github.com/AlbouchiSamar/ProjetAndroidMDM]](https://github.com/AlbouchiSamar/ProjetAndroidMDM)
+[Voir le code du projet](https://github.com/AlbouchiSamar/ProjetAndroidMDM)
 
 ---
 
