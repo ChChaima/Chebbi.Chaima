@@ -1,7 +1,7 @@
 # Bonjour, je suis Chaima Chebbi
 
 Étudiante en **1ʳᵉ année du Cycle d’Ingénieur en Sciences Appliquées et Technologies** – TEK-UP  
-Domaines d’intérêt : **Intelligence Artificielle & Cybersécurité** 
+Domaines d’intérêt : **Intelligence Artificielle ** 
 Passionnée par les projets techniques et le développement de solutions concrètes
 
 ---
