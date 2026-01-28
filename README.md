@@ -108,7 +108,7 @@ https://github.com/ChChaima
 - Programming Essentials in Python – Cisco (PCAP)  
 - Embedded Systems – Time University  
 - Robotic Trainer – Try Angle Academy  
-- CSF / AWS – Systèmes embarqués  
+- AWS (en cours) 
 
 ---
 
