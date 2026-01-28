@@ -9,8 +9,7 @@ Passionnée par les projets techniques et le développement de solutions concrè
 ##  À propos de moi
 
 Je suis une étudiante en ingénierie informatique, spécialisée dans les **systèmes embarqués** et le **développement Mobiles**.  
-J’ai réalisé plusieurs projets académiques et personnels en **C, Android, IoT et Web**, avec une forte orientation vers les applications pratiques et les solutions open source.
-
+J’ai réalisé plusieurs projets académiques et personnels en **C, Android, IoT et Web**, Je m’intéresse également aux applications pratiques de l’intelligence artificielle et de l’analyse de données dans les systèmes logiciels et industriels.
 Sérieuse, autonome et motivée, je cherche continuellement à améliorer mes compétences techniques et à travailler sur des projets à valeur ajoutée.
 
 ---
