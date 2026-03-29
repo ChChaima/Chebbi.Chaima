@@ -1,16 +1,16 @@
 # Bonjour, je suis Chaima Chebbi
 
-Étudiante en **1ʳᵉ année du Cycle d’Ingénieur en Sciences Appliquées et Technologies** – TEK-UP  
+Récemment diplômée en IT (Systèmes Embarqués et Mobile)
 Domaines d’intérêt : **Intelligence Artificielle ** 
-Passionnée par les projets techniques et le développement de solutions concrètes
+Passionnée par les projets techniques et le développement de solutions concrètes , motivée par le développement et l’optimisation d’applications  
 
 ---
 
 ##  À propos de moi
 
-Je suis une étudiante en ingénierie informatique, spécialisée dans les **systèmes embarqués** et le **développement Mobiles**.  
-J’ai réalisé plusieurs projets académiques et personnels en **C, Android, IoT et Web**, Je m’intéresse également aux applications pratiques de l’intelligence artificielle et de l’analyse de données dans les systèmes logiciels et industriels.
-Sérieuse, autonome et motivée, je cherche continuellement à améliorer mes compétences techniques et à travailler sur des projets à valeur ajoutée.
+Je suis diplômée en IT, spécialité Systèmes Embarqués et Mobile à l’ISET de Rades.
+J’ai développé plusieurs projets académiques et personnels en Android, Java, C, IoT et Web, avec une solide expérience dans la conception, le développement et le débogage d’applications mobiles Android.
+Passionnée par l’optimisation de l’expérience utilisateur et les applications mobiles innovantes, je suis sérieuse, autonome et motivée, et je cherche à mettre mes compétences au service de projets performants et créatifs..
 
 ---
 
