@@ -94,8 +94,6 @@ https://github.com/ChChaima
 
 ##  Formation
 
-- **Cycle d’Ingénieur en Sciences Appliquées et Technologies**  
-  1ʳᵉ année – TEK-UP
 
 - **Licence en Technologies de l’Informatique**  
   Spécialité : Systèmes embarqués et développement mobile  
