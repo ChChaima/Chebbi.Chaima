@@ -1,7 +1,6 @@
 # Bonjour, je suis Chaima Chebbi
 
 Récemment diplômée en IT (Systèmes Embarqués et Mobile)
-Domaines d’intérêt : **Intelligence Artificielle ** 
 Passionnée par les projets techniques et le développement de solutions concrètes , motivée par le développement et l’optimisation d’applications  
 
 ---
@@ -96,7 +95,7 @@ https://github.com/ChChaima
 
 
 - **Licence en Technologies de l’Informatique**  
-  Spécialité : Systèmes embarqués et développement mobile  
+  Spécialité : Systèmes embarqués et mobile  
   ISET Radès – Tunisie
 
 ---
