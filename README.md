@@ -1,15 +1,27 @@
 # Bonjour, je suis Chaima Chebbi
 
-Récemment diplômée en IT (Systèmes Embarqués et Mobile)
-Passionnée par les projets techniques et le développement de solutions concrètes , motivée par le développement et l’optimisation d’applications  
+Étudiante en cycle ingénieur en informatique (Computer Science), 
+titulaire d’une licence en systèmes embarqués et mobile.
+Prochainement spécialisée en sécurité des systèmes informatiques et réseaux.
 
+Intéressée par la cybersécurité, je m’oriente vers la sécurisation des systèmes, 
+la gestion des appareils et la protection des données en environnement entreprise.
 ---
 
 ##  À propos de moi
 
-Je suis diplômée en IT, spécialité Systèmes Embarqués et Mobile à l’ISET de Rades.
-J’ai développé plusieurs projets académiques et personnels en Android, Java, C, IoT et Web, avec une solide expérience dans la conception, le développement et le débogage d’applications mobiles Android.
-Passionnée par l’optimisation de l’expérience utilisateur et les applications mobiles innovantes, je suis sérieuse, autonome et motivée, et je cherche à mettre mes compétences au service de projets performants et créatifs..
+Je suis étudiante en cycle ingénieur en informatique, titulaire d’une licence en systèmes embarqués et mobile.
+
+Au cours de mon parcours, j’ai développé plusieurs projets en développement mobile, IoT et systèmes embarqués. 
+Mon projet de fin d’études a porté sur la mise en place d’une solution MDM (Mobile Device Management), 
+incluant le développement d’une application Android permettant le contrôle et la sécurisation des appareils à distance.
+
+Ce projet m’a permis de travailler sur des aspects liés à la cybersécurité, notamment la gestion des accès, 
+le contrôle des appareils et la protection des données.
+
+Motivée, rigoureuse et curieuse, je souhaite aujourd’hui approfondir mes compétences en cybersécurité 
+et participer à des projets à fort impact.
+
 
 ---
 
@@ -65,6 +77,15 @@ Passionnée par l’optimisation de l’expérience utilisateur et les applicati
 - Gestion des appareils
 - Actions à distance : verrouillage, redémarrage, suppression des données
 
+   Fonctionnalités de sécurité :
+- Verrouillage des appareils à distance
+- Suppression des données (wipe)
+- Gestion des accès et contrôle des utilisateurs
+
+- Communication avec un serveur MDM
+- Intégration de fonctionnalités de gestion et de sécurité des appareils
+
+
 🔗 Dépôt GitHub :  
 [Voir le code du projet](https://github.com/AlbouchiSamar/ProjetAndroidMDM)
 
@@ -93,7 +114,8 @@ https://github.com/ChChaima
 
 ##  Formation
 
-
+**Cycle ingénieur en informatique (Computer Science) – 1ère année**  
+  Prochainement spécialisée en sécurité des systèmes informatiques et réseaux  
 - **Licence en Technologies de l’Informatique**  
   Spécialité : Systèmes embarqués et mobile  
   ISET Radès – Tunisie
